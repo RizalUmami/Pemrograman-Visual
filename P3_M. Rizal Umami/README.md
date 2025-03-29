@@ -11,6 +11,8 @@
 Game edukatif calistung adalah sebuah permainan edukatif berbasis Augmented Reality (AR) yang dirancang khusus untuk anak-anak usia 4-7 tahun. Game ini bertujuan untuk membantu anak-anak belajar membaca, menulis. dan berhitung (calistung) dengan cara yang interaktif dan menyenangkan. Menggabungkan teknologi AR dengan metode belajar yang sederhana, anak-anak dapat belajar melalui pengalaman visual dan interaktif yang menarik. Dalam permainan ini, anak=anak menggunakan perangkat (seperti tablet atau smartphone), dan akan menampilkan konten 3D, animasi, dan suara yang memperkaya pembelajaran. Dengan berbagai tugas interaktif seperti menyusun kata, menebalkan huruf, dan menjoawab soal berhitung. anak-anak dia jok untuk bela jar sambil bermain.
 
 ## Desain Unity
+### Logo
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/cfed99d6-efb8-44a9-96ec-c6213b2b2aa0" />
 ### Main Program
 ![Image](https://github.com/user-attachments/assets/2f4ee4a1-18ff-479e-95cc-908e32b45068)
 ### AR Scene (CA - BACA)

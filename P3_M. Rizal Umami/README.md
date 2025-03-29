@@ -12,7 +12,7 @@ Game edukatif calistung adalah sebuah permainan edukatif berbasis Augmented Real
 
 ## Desain Unity
 ### Logo
-![Image](https://github.com/user-attachments/assets/cfed99d6-efb8-44a9-96ec-c6213b2b2aa0))
+![Image](https://github.com/user-attachments/assets/992b4f32-a9a0-4d56-92a9-531634b464d7)
 ### Main Program
 ![Image](https://github.com/user-attachments/assets/2f4ee4a1-18ff-479e-95cc-908e32b45068)
 ### AR Scene (CA - BACA)

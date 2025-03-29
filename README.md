@@ -1,6 +1,6 @@
 ## Pengumpulan Tugas Pemrograman Visual
 
-### Nama: M. Rizal Umamami  
+### Nama: M. Rizal Umami  
 ### Kelas: 3A  
 ### NPM: 2213020164  
 

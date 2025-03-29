@@ -2,8 +2,7 @@
 ##-
 Merupakan aplikasi salah satu project customer saya untuk membuat Aplikasi Media Pembelajaran yang bertemakan Augmented Reality & Touch Screen
 
-##-
-- C Sharp (language)
+##-- C Sharp (language)
 - Unity
 - Visual Studio Code
 - Blender 

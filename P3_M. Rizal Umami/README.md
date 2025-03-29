@@ -1,8 +1,8 @@
 ## Tugas 3 Pemrograman Visual
-##-
-Merupakan aplikasi salah satu project customer saya untuk membuat Aplikasi Media Pembelajaran yang bertemakan Augmented Reality & Touch Screen
+##- Merupakan aplikasi salah satu project customer saya untuk membuat Aplikasi Media Pembelajaran yang bertemakan Augmented Reality & Touch Screen
 
-##-- C Sharp (language)
+##- Editor
+- C Sharp (language)
 - Unity
 - Visual Studio Code
 - Blender 

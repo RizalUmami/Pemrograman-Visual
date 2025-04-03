@@ -1,5 +1,5 @@
 ## Tugas 3 Pemrograman Visual
-##- Merupakan aplikasi BACA TULIS HITUNG (CALISTUNG) salah satu project customer saya untuk membuat Aplikasi Media Pembelajaran yang bertemakan Augmented Reality & Touch Screen
+##- Merupakan aplikasi BACA TULIS HITUNG (CALISTUNG) salah satu project customer saya untuk membuat Aplikasi Media Pembelajaran yang bertemakan Augmented Reality & Touch Screen [full link : ([https://github.com/RizalUmami/CALISTUNG.git)]]
 
 ##- Editor
 - C Sharp (language)

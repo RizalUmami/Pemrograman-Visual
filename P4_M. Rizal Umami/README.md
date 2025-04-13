@@ -4,7 +4,7 @@
 ##- Desain UI
 - Desain dilakukana dengan software CorelDraw (2022)
 - Asset UI (https://www.freepik.com/, https://www.flaticon.com/)
-- Aseet 3D (https://sketchfab.com/feed)
+- Aseet 3D (https://sketchfab.com/)
 
 ##- Editor
 - C Sharp (language)

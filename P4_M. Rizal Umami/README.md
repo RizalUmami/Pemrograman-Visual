@@ -2,7 +2,7 @@
 ##- Merupakan aplikasi BACA TULIS HITUNG (CALISTUNG) salah satu project customer saya untuk membuat Aplikasi Media Pembelajaran yang bertemakan Augmented Reality & Touch Screen [full link : (https://github.com/RizalUmami/CALISTUNG.git)]
 
 ##- Desain UI
-- Desain dilakukana dengan software CorelDraw (2022)
+- Desain dilakukan dengan software CorelDraw (2022)
 - Asset UI (https://www.freepik.com/, https://www.flaticon.com/)
 - Aseet 3D (https://sketchfab.com/)
 

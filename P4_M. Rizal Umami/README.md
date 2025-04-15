@@ -5,7 +5,9 @@
 - Desain dilakukan dengan software CorelDraw (2022)
 - Asset UI (https://www.freepik.com/, https://www.flaticon.com/)
 - Aseet 3D (https://sketchfab.com/)
-
+- Canva desain (https://www.canva.com/design/DAGiC51dYu4/GnKTaWjtzPWmTBZd4QhTZA/edit?utm_content=DAGiC51dYu4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Canva Desain (https://www.canva.com/design/DAGNjLuHCgs/tJ3btgeOKn9tZO3wflWlhg/edit?utm_content=DAGNjLuHCgs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  
 ##- Editor
 - C Sharp (language)
 - Unity
